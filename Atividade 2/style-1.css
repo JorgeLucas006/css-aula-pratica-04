@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  text-align: center;
+  color: white;
+  font: 1.5rem verdana;
+}
+
+.start {
+  background: #342F2D;
+  width: 33.33%;
+}
+
+.middle {
+  background: #A0B25F;
+  width: 33.33%;
+}
+
+.end {
+  background: #B8BFB1;
+  width: 33.33%;
+}
+
+main {
+  display: flex;
+  height: 100vh;
+}
